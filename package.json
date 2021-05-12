@@ -1,11 +1,11 @@
 {
-  "name": "github-packages",
+  "name": "dapi_ib",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord API Ingeniero Binario Interface",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ingenierobinario",
+  "author": "",
   "license": "ISC"
 }
